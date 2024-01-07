@@ -6,12 +6,12 @@
   "author": "Víctor Durán-Runtimevic",
   "license": "GPL-2.0-or-later",
   "bugs": {
-    "url": "https://github.com/quangis/gis-question-formulator/issues"
+    "url": "https://github.com/VisualPLC/Blockly-Parcel/issues"
   },
-  "homepage": "https://github.com/quangis/gis-question-formulator#readme",
+  "homepage": "https://github.com/VisualPLC/Blockly-Parcel#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/quangis/gis-question-formulator.git"
+    "url": "git+https://github.com/VisualPLC/Blockly-Parcel.git"
   },
   "scripts": {
     "start": "parcel",
