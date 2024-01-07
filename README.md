@@ -16,6 +16,10 @@ do:
 
     npm run start
 
+create build:
+
+    npm run build
+
 
 [npm]: https://www.npmjs.com/
 [parcel]: https://parceljs.org/
