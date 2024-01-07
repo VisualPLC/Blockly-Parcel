@@ -1,0 +1,27 @@
+{
+  "name": "blockly-parcel",
+  "version": "0.0.1",
+  "description": "Blockly project Visual PLC",
+  "source": "src/index.html",
+  "author": "Víctor Durán-Runtimevic",
+  "license": "GPL-2.0-or-later",
+  "bugs": {
+    "url": "https://github.com/quangis/gis-question-formulator/issues"
+  },
+  "homepage": "https://github.com/quangis/gis-question-formulator#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quangis/gis-question-formulator.git"
+  },
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "dependencies": {
+    "blockly": "^8.0.5"
+  },
+  "devDependencies": {
+    "parcel":  "^2.11.0"
+  }
+}
+
