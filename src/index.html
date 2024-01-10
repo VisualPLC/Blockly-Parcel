@@ -39,6 +39,7 @@
 	<script src="blocks.js"></script>
 	<script src="generator.js"></script>
 	<script src="blockly_ner.js"></script>
+	<!-- <script src="blockly_run.js"></script> -->
 	<link rel="shortcut icon" href="#" />
 </head>
 <body>
@@ -236,5 +237,6 @@
 		Blockly.gridFlyout&&Blockly.gridFlyout.flyoutCategory&&(workspace.registerToolboxCategoryCallback(Blockly.GRIDFLYOUT_CATEGORY_NAME,Blockly.gridFlyout.flyoutCategory));
 </script>
 	<button onclick="writeBresult()">Export question</button>
+	<button id="runBtn" class="button primary"><span>Run</span></button>&nbsp;&nbsp;&nbsp;
 </body>
 </html>
